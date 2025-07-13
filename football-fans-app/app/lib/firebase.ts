@@ -5,7 +5,7 @@ import { getFirestore } from 'firebase/firestore';
 import { getFunctions } from 'firebase/functions';
 
 const firebaseConfig = {
-  apiKey: 'AIzaSyBYBxPTbdZLwp0F0WqxXs8kMfUrnQpUjEs',
+  apiKey: 'XXX',
   authDomain: 'footballconnect-d810b.firebaseapp.com',
   projectId: 'footballconnect-d810b',
   storageBucket: 'footballconnect-d810b.appspot.com',
